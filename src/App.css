@@ -1,0 +1,9 @@
+.splide__arrow{
+    display: none !important;
+}
+
+.themeGradient{
+    background: linear-gradient(to right, #8DA4FF 0%, #D1DBFF 100%);
+    color: white;
+}
+
